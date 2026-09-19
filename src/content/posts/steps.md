@@ -21,7 +21,7 @@ Wrap one Markdown ordered list in a `:::steps` container. Each top-level list it
    Clone the repository and enter the project directory.
 
    ```powershell
-   git clone https://github.com/LyraVoid/Shirone.git
+   git clone https://github.com/xiaoxuanaichitao/Shirone.git
    Set-Location Shirone
    ```
 
@@ -58,7 +58,7 @@ Wrap one Markdown ordered list in a `:::steps` container. Each top-level list it
    Clone the repository and enter the project directory.
 
    ```powershell
-   git clone https://github.com/LyraVoid/Shirone.git
+   git clone https://github.com/xiaoxuanaichitao/Shirone.git
    Set-Location Shirone
    ```
 

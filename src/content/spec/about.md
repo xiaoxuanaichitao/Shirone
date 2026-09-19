@@ -2,7 +2,7 @@
 
 Welcome to the demo site of **Shirone** (白音) — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
 
-::github{repo="LyraVoid/Shirone"}
+::github{repo="xiaoxuanaichitao/Shirone"}
 
 ## ✦ Design & Philosophy
 

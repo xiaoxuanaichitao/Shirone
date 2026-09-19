@@ -25,7 +25,7 @@ export const profileConfig: ProfileConfig = withUserConfig("profile", {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/LyraVoid/Shirone",
+			url: "https://github.com/xiaoxuanaichitao",
 		},
 	],
 });

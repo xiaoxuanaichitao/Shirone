@@ -3,7 +3,6 @@ import BannerStage from "@components/organisms/BannerStage.astro";
 import CategoryBar from "@components/organisms/CategoryBar.astro";
 import ContextMenu from "@components/organisms/ContextMenu.svelte";
 import FloatingControls from "@components/organisms/FloatingControls.astro";
-import Footer from "@components/organisms/Footer.astro";
 import RouteProgress from "@components/organisms/RouteProgress.svelte";
 import SideBar from "@components/organisms/SideBar.astro";
 import SiteNavigationDrawer from "@components/organisms/SiteNavigationDrawer.svelte";
@@ -104,15 +103,8 @@ const mainContentClasses = generateMainContentClasses(sidebarResponsive);
                         <!-- the overflow-hidden here prevent long text break the layout-->
                         <!-- make id different from windows.swup global property -->
                         <slot></slot>
-                        <div class="footer col-span-2 onload-animation hidden lg:block">
-                            <Footer></Footer>
-                        </div>
                     </div>
                 </main>
-            </div>
-
-            <div class="footer col-span-2 onload-animation block lg:hidden">
-                <Footer></Footer>
             </div>
         </div>
 
