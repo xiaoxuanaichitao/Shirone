@@ -44,7 +44,7 @@
     "anime:sync": "node scripts/anime/sync.mjs",
     "fonts:check": "node scripts/fonts/check-fonts.mjs",
     "fonts:subset": "node scripts/fonts/subset-fonts.mjs",
-    "build": "node scripts/content/sync.mjs && node scripts/icons/generate-local-icons.mjs && node scripts/images/generate-moment-thumbnails.mjs && astro build && npx pagefind --site dist && node scripts/fonts/check-fonts.mjs",
+    "build": "node scripts/content/sync.mjs && node scripts/icons/generate-local-icons.mjs && node scripts/images/generate-moment-thumbnails.mjs && (node scripts/anime/sync.mjs --provider bilibili || echo \"[anime-sync] sync failed; falling back to local data\") && astro build && npx pagefind --site dist && node scripts/fonts/check-fonts.mjs",
     "preview": "astro preview",
     "lighthouse:collect": "lhci collect --config=lighthouserc.cjs",
     "lighthouse:assert": "lhci assert --config=lighthouserc.cjs",
