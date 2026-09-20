@@ -1,26 +1,17 @@
-# About Shirone
+# 关于我
 
-Welcome to the demo site of **小桃** — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
+你好，我是**小桃**。这里是我的小天地，记录成长、分享想法。下面是我的联系方式，欢迎随时找我聊聊。
 
-::github{repo="xiaoxuanaichitao/Shirone"}
+## ✦ 联系方式
 
-## ✦ Design & Philosophy
+- **抖音**：[@小桃](https://www.douyin.com/user/占位抖音号)
+- **哔哩哔哩**：[小桃的B站主页](https://space.bilibili.com/2011779226)
+- **微博**：[@小桃](https://weibo.com/占位微博号)
+- **小红书**：[小桃](https://www.xiaohongshu.com/user/profile/占位小红书号)
+- **GitHub**：[xiaoxuanaichitao](https://github.com/xiaoxuanaichitao)
+- **邮箱**：[占位邮箱@example.com](mailto:占位邮箱@example.com)
 
-Shirone aims to combine the warmth of expressive anime aesthetics with the rigor of modern web engineering:
+## ✦ 关于本站
 
-- **Dynamic Chromatic Spell**: Full dynamic HCT palette generation responding seamlessly to light/dark modes and user preferences with zero layout shifts.
-- **Seamless Shell Navigation**: Persistent application shell driven by Swup for continuous music playback, smooth page transitions, and preserved state.
-- **Rich Story Grimoire**: Markdown and MDX authoring with KaTeX math, Mermaid diagrams, interactive admonitions, expressive code blocks, and adaptive image galleries.
-- **Zero Extra Burden**: Optional integrations (comments, analytics, music widgets) load dynamically on demand — zero DOM footprint and zero bundle overhead when disabled.
-
-## ✦ Tech Stack
-
-- **Framework**: [Astro 7](https://astro.build/) & [Svelte 5](https://svelte.dev/) (Runes-driven islands)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Stylus](https://stylus-lang.com/)
-- **Design Standard**: [Material 3 Expressive](https://m3.material.io/)
-- **Typography**: Outfit & Yozai (悠哉圆体) with automated build-time subsetting
-- **Search Engine**: [Pagefind](https://pagefind.app/) offline full-text search
-
-## ✦ Credits
-
-- **Font**: [Yozai Font (悠哉字体)](https://github.com/lxgw/yozai-font) by [lxgw](https://github.com/lxgw)
+- 微信 / QQ 等不方便直接跳转的方式，可以留言或通过上面任意平台私信我。
+- 以上信息均为占位示例，替换成你自己的真实账号即可。
